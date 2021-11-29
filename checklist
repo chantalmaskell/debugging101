@@ -1,0 +1,15 @@
+chantal's debugging checklist: some tips if you're struggling to find the error in your code.
+
+# I couldn't find a clear guide on this so I've created my own - feel free to let me know if anything needs adding and we can catch up;)
+
+1. Anything that should be upper or lower case? Check capitalisations
+2. Check spellings
+3. Have you defined the string or integer?
+4. = or ==?
+5. Have you added a colon? ‘:’
+6. Are you using the correct brackets? Or, rather, ‘parenthesis’
+7. Have you used the correct indentations?
+8. Are you using the correct quotation marks? Singles or doubles?
+9. Have you accidentally added an extra space somewhere?
+10. Did you remember to import the library at the top?
+11. Is the index number you’re referencing in range? 
